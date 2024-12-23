@@ -1,6 +1,3 @@
-Certainly! Here is the complete `README.md` markup with the enhanced description and additional usage examples:
-
-```markdown
 # Brahmastra
 
 The Brahmastra is an undetected WebDriver, inspired by the legendary weapon of unparalleled power and destruction. Just like its mythical namesake, this tool is designed to be a formidable asset in your automation arsenal. It allows you to navigate any website or webpage effortlessly and invisibly, bypassing anti-bot measures with ease. With Brahmastra, automating your web tasks becomes seamless and worry-free, making it an indispensable tool for developers and automation enthusiasts alike.
